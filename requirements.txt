@@ -1,5 +1,5 @@
-streamlit==1.35.0
-tensorflow
+streamlit>=1.25.0
+tensorflow-cpu
 keras
 pandas
 numpy
