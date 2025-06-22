@@ -1,6 +1,8 @@
 streamlit
-tensorflow
 pandas
-openpyxl
+numpy
+tensorflow
+keras
 Pillow
+openpyxl
 requests
